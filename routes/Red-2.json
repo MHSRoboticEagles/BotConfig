@@ -1,0 +1,27 @@
+{
+  "nameIndex": 2,
+  "name": "Red",
+  "selected": false,
+  "temp": false,
+  "steps": [
+    {
+      "waitMS": 500,
+      "targetX": 110,
+      "targetY": 2,
+      "topSpeed": 0.5,
+      "moveStrategy": "Curve",
+      "robotDirection": "Optimal",
+      "action": "None",
+      "desiredHead": -1.0,
+      "continuous": false,
+      "targetReference": "",
+      "conditionValue": "",
+      "conditionFunction": ""
+    }
+  ],
+  "startX": 78,
+  "startY": 2,
+  "initRotation": 270,
+  "lastRunTime": 0,
+  "description": "Safe"
+}
